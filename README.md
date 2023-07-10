@@ -1,6 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fdffc2,100:bde1ff&height=200&section=header" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fdffc2,100:bde1ff&height=300&section=header" />
+</p>
 
+<p align="center">
+<img src="https://pbs.twimg.com/media/Cp-ciO0UAAAV78P.jpg" width="90%" height="20%" align="center" title="image" alt="mainPoto" />
+</p>
 
+<br/>
+
+####  :wave: Welcome my github profile !
+
+<br/>
+<br/>
 
 <h4>📣 Languages</h4>
 <div>
@@ -17,14 +28,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuEuni&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuEuni&layout=compact"><br/>
 
 
 
 <h4>🎁 GitHub Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=RyuEuni&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=RyuEuni&show_icons=true"><br/>
 
 
 
-<h4>🌈Contect</h4>
-<a href="https://blog.naver.com/euni0619"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/euni0619"/></a>&nbsp
+<h4>🌈Connect</h4>
+<a href="https://blog.naver.com/euni0619"><img src="https://img.shields.io/badge/Blog-1dc800?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/euni0619"/></a>&nbsp
+<a href="mailto:euni.ryu97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=euni.ryu97@gmail.com"/></a>
