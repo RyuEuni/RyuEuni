@@ -2,7 +2,7 @@
 
 
 
-<h3>📣 Languages</h3>
+<h4>📣 Languages</h4>
 <div>
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -21,19 +21,10 @@
 
 
 
-<h3>🎁 GitHub Stats</h3>
+<h4>🎁 GitHub Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=RyuEuni&show_icons=true">
-<!--
-**RyuEuni/RyuEuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4>🌈Contect</h4>
+[![Naver](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://blog.naver.com/euni0619")
