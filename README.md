@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,2,5,30&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ffdead,100:d5ff9e8&height=200&section=header" />
 <!--
 **RyuEuni/RyuEuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
