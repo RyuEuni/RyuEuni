@@ -27,4 +27,4 @@
 
 
 <h4>🌈Contect</h4>
-[![Naver](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://blog.naver.com/euni0619")
+[![Naver](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://blog.naver.com/euni0619/)
