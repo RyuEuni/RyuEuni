@@ -1,19 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fdffc2,100:bde1ff&height=300&section=header" />
+<img src="https://pbs.twimg.com/media/Cp-ciO0UAAAV78P.jpg" width="100%" title="image" alt="mainPoto" />
 </p>
 
-<p align="center">
-<img src="https://pbs.twimg.com/media/Cp-ciO0UAAAV78P.jpg" width="90%" height="20%" align="center" title="image" alt="mainPoto" />
-</p>
-
-<br/>
-
-####  :wave: Welcome my github profile !
+####  🌱 Welcome my github profile !
 
 <br/>
 <br/>
 
-<h4>📣 Languages</h4>
+<h4> 💙 Languages</h4>
 <div>
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -32,11 +26,11 @@
 
 
 
-<h4>🎁 GitHub Stats</h4>
+<h4> ⭐ GitHub Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=RyuEuni&show_icons=true"><br/>
 
 
 
-<h4>🌈Connect</h4>
+<h4> 🌈 Connect</h4>
 <a href="https://blog.naver.com/euni0619"><img src="https://img.shields.io/badge/Blog-1dc800?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/euni0619"/></a>&nbsp
 <a href="mailto:euni.ryu97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=euni.ryu97@gmail.com"/></a>
