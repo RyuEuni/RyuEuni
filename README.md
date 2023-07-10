@@ -2,7 +2,7 @@
 
 
 
-<h1>📣 Languages</h1>
+<h3>📣 Languages</h1>
 <div>
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuEuni&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=RyuEuni&show_icons=true">
 <!--
 **RyuEuni/RyuEuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
