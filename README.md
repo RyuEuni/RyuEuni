@@ -27,4 +27,4 @@
 
 
 <h4>🌈Contect</h4>
-[![Naver](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://blog.naver.com/euni0619/)
+<a href="https://blog.naver.com/euni0619"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/euni0619"/></a>&nbsp
