@@ -32,5 +32,5 @@
 
 
 <h4> 🌈 Connect</h4>
-<a href="https://blog.naver.com/euni0619"><img src="https://img.shields.io/badge/Blog-1dc800?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/euni0619"/></a>&nbsp
-<a href="mailto:euni.ryu97@gmail.com"><img src="https://img.shields.io/badge/euni.ryu97@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=euni.ryu97@gmail.com"/></a>
+<a href="mailto:euni.ryu97@gmail.com"><img src="https://img.shields.io/badge/euni.ryu97@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=euni.ryu97@gmail.com"/></a>&nbsp
+<a href="https://www.notion.so/invite/c4d414071ca811cf80ce97dec3e4af3c8c1ff61b"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/invite/c4d414071ca811cf80ce97dec3e4af3c8c1ff61b"/></a>
